@@ -1,0 +1,30 @@
+body {
+	font-family: sans-serif;
+	font-size:12px;
+	background:#232323;
+	color:#ccc;
+}
+iframe {
+  border:0;
+}
+#video {
+	width:450px;
+	height:320px;
+	margin:20px;
+}
+#info {
+  margin-left:20px;
+}
+#currentTime {
+	font-size:15px;
+}
+#overlay {
+	position:absolute;
+	top:20px;
+	left:530px;
+}
+#temp {
+  color:#f0f;
+	font-size:84px;
+	font-weight:bold;
+}
