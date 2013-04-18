@@ -6,6 +6,8 @@ Web-native verision of "checkmate" by Tele'jon Quinn
 video on youtube:
 http://www.youtube.com/watch?v=xUY2_w89_4k
 
+script doc: https://docs.google.com/document/d/1NGd5Sqnm-3LSmJC2Mv9m3pIoyEm-CnL6tKdIKFZhP4s/edit
+
 js/css animation reference:
 
 type:  
