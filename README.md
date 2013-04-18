@@ -8,7 +8,7 @@ http://www.youtube.com/watch?v=xUY2_w89_4k
 
 js/css animation reference:
 
-type:
+type:  
 http://lab.tylergaw.com/themanfromhollywood/  
 http://tylergaw.com/articles/you-did-what-with-what  
 http://daneden.me/labs/bigdeal/  
