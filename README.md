@@ -34,29 +34,29 @@ http://www.1stwebdesigner.com/css/50-awesome-css3-animations/
 http://www.1stwebdesigner.com/css/advanced-css-text-effects-web-typography-tips/  
 http://snook.ca/archives/html_and_css/css-text-rotation  
 
-possible links for video:
-http://lab.tylergaw.com/themanfromhollywood/
-  --transitions, fades, replacement text
-http://andrew-hoyer.com/experiments/ 
-  --possibly drawing out sketch to convey sentence or word
+possible links for video:  
+http://lab.tylergaw.com/themanfromhollywood/  
+  --transitions, fades, replacement text  
+http://andrew-hoyer.com/experiments/   
+  --possibly drawing out sketch to convey sentence or word  
 http://app-solut.com/blog/2011/03/display-additional-overlay-elements-on-top-of-an-html5-video-element-with-javascript/
-  --reference site
-http://playdulla.com/
-  --background movement, text entry/transitions
-http://lea.verou.me/2011/09/pure-css3-typing-animation-with-steps/
-  --pure css type animation with steps()
-http://lukeas14.github.io/animateText.js/
-   --js text animation
-http://codecanyon.net/item/jquery-text-animation/full_screen_preview/233445?ref=lvraa&ref=lvraa&clickthrough_id=127470269&redirect_back=true
-  --js text effects
-http://codecanyon.net/item/textfx-a-jquery-text-animation-tool/309565?ref=lvraa
-  --more js text effects
+  --reference site  
+http://playdulla.com/  
+  --background movement, text entry/transitions  
+http://lea.verou.me/2011/09/pure-css3-typing-animation-with-steps/  
+  --pure css type animation with steps()  
+http://lukeas14.github.io/animateText.js/  
+   --js text animation  
+http://codecanyon.net/item/jquery-text-animation/full_screen_preview/233445?ref=lvraa&ref=lvraa&clickthrough_id=127470269&redirect_back=true  
+  --js text effects  
+http://codecanyon.net/item/textfx-a-jquery-text-animation-tool/309565?ref=lvraa  
+  --more js text effects  
 
-misc:
-http://www.webkit.org/blog-files/3d-transforms/morphing-cubes.html
---3d cube toggle
-http://www.gesteves.com/experiments/starwars.html
---css star wars intro
-
+misc:  
+http://www.webkit.org/blog-files/3d-transforms/morphing-cubes.html  
+--3d cube toggle  
+http://www.gesteves.com/experiments/starwars.html  
+--css star wars intro  
+http://srobbin.com/jquery-plugins/approach/
   
   
